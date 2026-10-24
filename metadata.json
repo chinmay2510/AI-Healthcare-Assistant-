@@ -1,0 +1,6 @@
+{
+  "name": "AI Health Information Assistant",
+  "description": "A production-ready full-stack health information web application providing symptom explanations, preventive care guides, and real-time streaming chat safely guided by medical guardrails.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
